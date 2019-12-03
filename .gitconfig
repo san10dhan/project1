@@ -1,0 +1,9 @@
+[user]
+	email = jm@gmail.com
+	name = jm
+[branch]
+	autosetuprebase = always
+[color]
+	ui = true
+	status = auto
+	branch = auto

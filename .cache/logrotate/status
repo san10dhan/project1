@@ -1,0 +1,15 @@
+logrotate state -- version 2
+"/home/node/.cache/upstart/upstart-event-bridge.log" 2019-12-2-18:44:5
+"/home/node/.cache/upstart/window-stack-bridge.log" 2019-12-2-18:44:5
+"/home/node/.cache/upstart/at-spi2-registryd.log" 2019-12-2-18:0:0
+"/home/node/.cache/upstart/hud.log" 2019-12-2-18:44:5
+"/home/node/.cache/upstart/dbus.log" 2019-12-2-18:44:5
+"/home/node/.cache/upstart/indicator-sound.log" 2019-12-2-18:44:5
+"/home/node/.cache/upstart/bamfdaemon.log" 2019-12-2-18:0:0
+"/home/node/.cache/upstart/update-notifier-release.log" 2019-12-2-18:44:5
+"/home/node/.cache/upstart/ssh-agent.log" 2019-12-2-18:44:5
+"/home/node/.cache/upstart/unity7.log" 2019-12-2-18:44:5
+"/home/node/.cache/upstart/gnome-keyring-ssh.log" 2019-12-2-18:44:5
+"/home/node/.cache/upstart/unity-settings-daemon.log" 2019-12-2-18:44:5
+"/home/node/.cache/upstart/gpg-agent.log" 2019-12-2-18:44:5
+"/home/node/.cache/upstart/unity-panel-service.log" 2019-12-2-18:44:5

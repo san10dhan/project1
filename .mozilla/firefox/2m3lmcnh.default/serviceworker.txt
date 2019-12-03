@@ -1,0 +1,11 @@
+8
+
+https://mail.google.com/mail/u/0/
+https://mail.google.com/mail/u/0/sw.js?offline_allowed=1
+true
+{e766db32-4ac7-4b25-a773-59e5388f0e4c}
+0
+1575261141286494
+1575261141356576
+1575261140552403
+#
